@@ -72,6 +72,11 @@ This is a summary with the endpoints and the required fields for each one:
         - The URL should begin with "http://" or "https://"
         - The URL cannot be "localhost" or "127.0.0.1"
     - Returns the inserted destination id
+    - 
+&nbsp;
+- `DELETE`  **/destination/:id**
+    - **Deletes a destination**
+    - Required params: Destination Id
     
 &nbsp;
 - `POST`  **/message/:destinationId**
@@ -81,10 +86,6 @@ This is a summary with the endpoints and the required fields for each one:
     - Body content is optional
     - Returns the destination's body and headers or, if could not process the request, a message saying that it will retry later.
     
-&nbsp;
-- `DELETE`  **/destination/:id**
-    - **Deletes a request**
-    - Required params: Request Id
     
 
 &nbsp;
