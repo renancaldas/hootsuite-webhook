@@ -1,0 +1,14 @@
+{
+	"config": {
+		"port": 3004,
+		"invalidURLs": ["localhost", "127.0.0.1", "hootsuite-webhook.renancaldas.com"],
+		"mongoUrl": "mongodb://pi:rAsPbeRrY@ds025603.mlab.com:25603/raspberry-pi",
+		"expirationTimeInHours": "1",
+		"requestRetryCount": "3",
+		"jobs": {
+			"timezone": "America/Argentina/Buenos_Aires",
+			"retrySendMessagesCronTime": "* * * * *",
+			"deletePendingMessagesCronTime": "* * * * *"
+		}
+	}
+}

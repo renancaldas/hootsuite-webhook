@@ -1,0 +1,11 @@
+{
+  "apps" : [{
+    "name"        : "[DEV]_hootsuite-webhook",
+    "script"      : "/home/pi/hootsuite-webhook/develop/app.js",
+    "watch"       : true,
+    "ignore_watch" : [".git", "node_modules"],
+    "env": {
+      "NODE_ENV": "development",
+    }
+  }]
+} 

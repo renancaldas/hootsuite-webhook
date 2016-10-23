@@ -1,0 +1,28 @@
+{
+  "name": "hootsuite-webhook",
+  "version": "1.0.0",
+  "description": "Project for the VanHackathon 2016",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development DEBUG=hootsuite-webhook* nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://renancaldas@bitbucket.org/renanvanhack/hootsuite-webhook.git"
+  },
+  "author": "Renan Caldas <renan.caldas@outlook.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/renanvanhack/hootsuite-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "cron": "^1.1.1",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "mongoose": "^4.6.4",
+    "q": "^1.4.1",
+    "request": "^2.75.0"
+  }
+}
