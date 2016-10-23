@@ -72,7 +72,7 @@ This is a summary with the endpoints and the required fields for each one:
         - The URL should begin with "http://" or "https://"
         - The URL cannot be "localhost" or "127.0.0.1"
     - Returns the inserted destination id
-    - 
+
 &nbsp;
 - `DELETE`  **/destination/:id**
     - **Deletes a destination**
