@@ -8,7 +8,7 @@
 - Company: HootSuite
 - Challenge link: http://app.vanhack.com/Challenges/Details?id=4
 - Author: Renan Caldas de Oliveira (https://www.linkedin.com/in/renancaldas)
-- Video Presentation: https://www.youtube.com/watch?v=qk0Yjt-_woQ
+- Video Presentation: https://www.youtube.com/watch?v=H6XNFCmuec0
 
 
 &nbsp;
