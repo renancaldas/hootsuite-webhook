@@ -1,7 +1,6 @@
 
-![Alt](https://www.vanhack.com/wp-content/uploads/2016/03/logo_blog.png "Title") 
+![alt text](https://d1qb2nb5cznatu.cloudfront.net/startups/i/737643-2a6700c8f1ece4e4a335c28ad0414cc9-medium_jpg.jpg)
 #### VanHackathon 2016 
-
 
 
 - Project: Webhooks
